@@ -1,0 +1,3 @@
+﻿
+2023-03-20 12:28:58.6926|DEBUG|NloggerDemo.Nlogger_Start|Debuging : Addition
+2023-03-20 12:28:59.9088|INFO|NloggerDemo.Nlogger_Start|Time and result30
